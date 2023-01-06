@@ -1,2 +1,2 @@
-# Curso_Front-End_Completo_2.0
+# Curso para desenvolvedor
 Atividades práticas desenvolvidas durante o curso.
